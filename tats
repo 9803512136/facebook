@@ -1,0 +1,28 @@
+[1mdiff --git a/b.txt b/b.txt[m
+[1mindex 0f8bbfe..818705b 100644[m
+[1m--- a/b.txt[m
+[1m+++ b/b.txt[m
+[36m@@ -1 +1,2 @@[m
+[31m-second file[m
+\ No newline at end of file[m
+[32m+[m[32msecond file[m
+[32m+[m[32msdhdghhj[m
+\ No newline at end of file[m
+[1mdiff --git a/c.txt b/c.txt[m
+[1mindex 0f5f870..57c4286 100644[m
+[1m--- a/c.txt[m
+[1m+++ b/c.txt[m
+[36m@@ -1 +1,3 @@[m
+[31m-it's my third file[m
+\ No newline at end of file[m
+[32m+[m[32mit's my third file[m
+[32m+[m
+[32m+[m[32mdsbhfdhfd[m
+\ No newline at end of file[m
+[1mdiff --git a/d.txt b/d.txt[m
+[1mindex 9c68c81..9a12613 100644[m
+[1m--- a/d.txt[m
+[1m+++ b/d.txt[m
+[36m@@ -1 +1,2 @@[m
+ it's my fourth file[m
+[32m+[m[32mfghdfgfhhg[m
